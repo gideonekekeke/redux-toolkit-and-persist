@@ -1,0 +1,60 @@
+[
+  {
+    "id" : "1",
+    "name" : "malush",
+    "email" : "malush@gmail.com",
+    "stack" :"fullStack",
+    "desc" : "HTML, CSS, JAVASCRIPT, REACT, NODE, FIREBASE, MONGODB",
+    "avatar" : "img/1.jpg"
+    
+
+  },
+  {
+    "id" : "2",
+    "name" : "Goodluck",
+    "email" : "goodluck@gmail.com",
+    "stack" :"Backend",
+    "desc" : "HTML, CSS, JAVASCRIPT, REACT, NODE, FIREBASE, MONGODB, ",
+    "avatar" : "img/2.jpg"
+  },
+  {
+    "id" : "3",
+    "name" : "samuel olorunda",
+    "email" : "samuel@gmail.com",
+    "stack" :"fullStack",
+    "desc" : "HTML, CSS, JAVASCRIPT, REACT, NODE, FIREBASE, MONGODB, ",
+    "avatar" : "img/3.jpg"
+  },
+  {
+    "id" : "4",
+    "name" : "Joshua",
+    "email" : "Joshua@gmail.com",
+    "stack" :"Merstack",
+    "desc" : "HTML, CSS, JAVASCRIPT, REACT, NODE, FIREBASE, MONGODB, ",
+    "avatar" : "img/4.jpg"
+    
+
+  },
+  {
+    "id" : "5",
+    "name" : "Kelechi",
+    "email" : "Kelechi@gmail.com",
+    "stack" :"FullStack",
+    "desc" : "HTML, CSS, JAVASCRIPT, REACT, NODE, FIREBASE, MONGODB, ",
+    "avatar" : "img/5.jpg"
+    
+
+  },
+  {
+    "id" : "6",
+    "name" : "Francis",
+    "email" : "Francis@gmail.com",
+    "stack" :"FullStack",
+    "desc" : "HTML, CSS, JAVASCRIPT, REACT, NODE, FIREBASE, MONGODB, ",
+    "avatar" : "img/6.jpg"
+    
+
+  }
+
+
+]
